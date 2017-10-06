@@ -15,11 +15,9 @@ function johnLennonFacts(){
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"];
-<<<<<<< HEAD
+
    var newFacts = [];
-=======
    var newFacts = ['foo', 'bar'];
->>>>>>> d5af25195cd98bc391126b4c3ea87db0fbb658c1
    var i = 0
    while (i < facts.length) {
      newFacts.push(facts[i] + "!!!");
